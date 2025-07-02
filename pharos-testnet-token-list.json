@@ -3,7 +3,7 @@
 	"version": { "major": 0, "minor": 2, "patch": 0 },
 	"keywords": ["pharos", "tokens", "trusted"],
 	"logoURI": "https://testnet.pharosscan.xyz/images/pharos-rounded.png",
-	"timestamp": "2025-07-2T14:15:22+0000",
+	"timestamp": "2025-07-2T12:15:22+0000",
 	"tokens": [
 		{
 			"name": "USD Coin",
