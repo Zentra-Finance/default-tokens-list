@@ -1,25 +1,29 @@
 {
 	"name": "Pharos Testnet Token List",
-	"version": { "major": 0, "minor": 2, "patch": 0 },
-	"keywords": ["pharos", "tokens", "trusted"],
 	"logoURI": "https://testnet.pharosscan.xyz/images/pharos-rounded.png",
-	"timestamp": "2025-07-2T12:15:22+0000",
+	"keywords": ["pharos", "tokensets", "defi"],
+	"timestamp": "2025-06-19T12:32:17.000+00:00",
 	"tokens": [
 		{
-			"name": "USD Coin",
+			"chainId": 688688,
 			"address": "0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED",
+			"name": "USD Coin",
 			"symbol": "USDC",
 			"decimals": 6,
-			"chainId": 688688,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
 		},
 		{
-			"name": "Tether USD",
-			"address": "0xD4071393f8716661958F766DF660033b3d35fD29",
-			"symbol": "USDT",
-			"decimals": 6,
 			"chainId": 688688,
+			"address": "0xD4071393f8716661958F766DF660033b3d35fD29",
+			"name": "Tether USD",
+			"symbol": "USDT",
+			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
 		}
-	]
+	],
+	"version": {
+		"major": 0,
+		"minor": 5,
+		"patch": 0
+	}
 }
